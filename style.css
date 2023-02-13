@@ -1,0 +1,139 @@
+body{
+    margin: 0;
+    background-color:#242526;
+    color: white;
+
+}
+
+
+
+.navbar{
+    font-family: 'Secular One', sans-serif;
+    text-align: center;
+    align-items: center;
+margin: 20px;
+width: 50%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.navbar40{  
+    border-style: solid;
+    background-color: #18191A;
+    border-color: #18191A;
+  display: flex;
+
+}
+
+.navbar40 div{
+font-family: 'Secular One', sans-serif;
+margin: 17px;
+
+}
+
+a{
+    text-decoration: none;
+    color: #a9a9a9;
+}
+
+
+
+
+.column img{
+  border-style: solid;
+  color:white;
+}
+
+.column {
+  float: left;
+  padding: 14px;
+}
+
+.row::after {
+  clear: both;
+  display: table;
+}
+
+
+
+  h1{
+    font-family: 'Secular One', sans-serif;
+text-align: center;
+  }
+
+  .two {
+    border-style: solid;
+    border-color: white;
+  }
+
+  .two:hover{
+    color: goldenrod;
+  }
+
+  .container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .container img{
+    opacity: 0.9;
+  }
+
+  .container h1{
+    font-size: 3.5em;
+  }
+
+h5{
+    font-family: 'Secular One', sans-serif;
+
+}
+.osszefuzes{
+    text-align: center;
+}
+
+.vasarlas{
+    border-style: solid;
+    border-color: #18191A;
+    background-color: #18191A;
+    padding: 1.5px;
+    margin-left: 37%;
+    margin-right: 37%;
+    cursor: pointer;
+}
+
+.vasarlas a{
+    font-family: 'Secular One', sans-serif;
+cursor: pointer;
+}
+
+h4{
+    
+    font-family: 'Secular One', sans-serif;
+}
+
+.navbar50{
+    border-style: solid;
+    background-color: #18191A;
+    border-color: #18191A;
+  display: flex;
+}
+
+.navbar50 div{
+    font-family: 'Secular One', sans-serif;
+    margin: 17px;    
+}
+
+.navbar60{
+    border-style: solid;
+    background-color:#242526;
+    border-color:#242526;
+  display: flex;
+ padding: 35px;
+}
