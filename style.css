@@ -139,7 +139,8 @@ h4{
 }
 
 .vasarlas:hover{
-    border-style: solid
+    transition: 1.2s;
+    border-style: solid;
     border-color:white;
     background-color:white;
     color:black;
